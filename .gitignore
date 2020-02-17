@@ -1,1 +1,15 @@
 *.swp
+android-app/RemoteMotorJoystick*.iml
+android-app/RemoteMotorJoystick.gradle
+android-app/RemoteMotorJoystick/local.properties
+android-app/RemoteMotorJoystick/.idea/caches
+android-app/RemoteMotorJoystick/.idea/libraries
+android-app/RemoteMotorJoystick/.idea/modules.xml
+android-app/RemoteMotorJoystick/.idea/workspace.xml
+android-app/RemoteMotorJoystick/.idea/navEditor.xml
+android-app/RemoteMotorJoystick/.idea/assetWizardSettings.xml
+android-app/RemoteMotorJoystick.DS_Store
+android-app/RemoteMotorJoystick/build
+android-app/RemoteMotorJoystick/captures
+android-app/RemoteMotorJoystick.externalNativeBuild
+android-app/RemoteMotorJoystick.cxx
